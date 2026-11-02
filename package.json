@@ -1,0 +1,12 @@
+{
+  "name": "gold-radio-server",
+  "version": "1.0.0",
+  "description": "Signaling server for Gold VIP Mod Radio Sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
